@@ -1,0 +1,10 @@
+C:\Users\lukas.LUKAS\Documents\Visual Studio 2015\Projects\FileIconExtractor\FileIconExtractor\bin\Debug\FileIconExtractor.exe.config
+C:\Users\lukas.LUKAS\Documents\Visual Studio 2015\Projects\FileIconExtractor\FileIconExtractor\bin\Debug\FileIconExtractor.exe
+C:\Users\lukas.LUKAS\Documents\Visual Studio 2015\Projects\FileIconExtractor\FileIconExtractor\bin\Debug\FileIconExtractor.pdb
+C:\Users\lukas.LUKAS\Documents\Visual Studio 2015\Projects\FileIconExtractor\FileIconExtractor\obj\Debug\FileIconExtractor.csprojAssemblyReference.cache
+C:\Users\lukas.LUKAS\Documents\Visual Studio 2015\Projects\FileIconExtractor\FileIconExtractor\obj\Debug\FileIconExtractor.Form1.resources
+C:\Users\lukas.LUKAS\Documents\Visual Studio 2015\Projects\FileIconExtractor\FileIconExtractor\obj\Debug\FileIconExtractor.Properties.Resources.resources
+C:\Users\lukas.LUKAS\Documents\Visual Studio 2015\Projects\FileIconExtractor\FileIconExtractor\obj\Debug\FileIconExtractor.csproj.GenerateResource.cache
+C:\Users\lukas.LUKAS\Documents\Visual Studio 2015\Projects\FileIconExtractor\FileIconExtractor\obj\Debug\FileIconExtractor.csproj.CoreCompileInputs.cache
+C:\Users\lukas.LUKAS\Documents\Visual Studio 2015\Projects\FileIconExtractor\FileIconExtractor\obj\Debug\FileIconExtractor.exe
+C:\Users\lukas.LUKAS\Documents\Visual Studio 2015\Projects\FileIconExtractor\FileIconExtractor\obj\Debug\FileIconExtractor.pdb
